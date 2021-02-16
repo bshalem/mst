@@ -1,0 +1,163 @@
+[
+  {
+    "id": "1",
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "year": "2019",
+    "summary": "While the First Order continues to ravage the galaxy, Rey finalizes her training as a Jedi. But danger suddenly rises from the ashes as the evil Emperor Palpatine mysteriously returns from the dead. While working with Finn and Poe Dameron to fulfill a new mission, Rey will not only face Kylo Ren once more, but she will also finally discover the truth about her parents as well as a deadly secret that could determine her future and the fate of the ultimate final showdown that is to come.",
+    "genre": "Adventure Action Fantasy"
+  },
+  {
+    "id": "2",
+    "title": "American Factory",
+    "year": "2019",
+    "summary": "In post-industrial Ohio, a Chinese billionaire opens a new factory in the husk of an abandoned General Motors plant, hiring two thousand blue-collar Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.",
+    "genre": "Documentary"
+  },
+  {
+    "id": "3",
+    "title": "A Beautiful Day in the Neighborhood",
+    "year": "2019",
+    "summary": "Two-time OscarÂ®-winner Tom Hanks portrays Mister Rogers in A Beautiful Day in the Neighborhood, a timely story of kindness triumphing over cynicism, based on the true story of a real-life friendship between Fred Rogers and journalist Tom Junod. After a jaded magazine writer (Emmy winner Matthew Rhys) is assigned a profile of Fred Rogers, he overcomes his skepticism, learning about empathy, kindness, and decency from America's most beloved neighbor.",
+    "genre": "Biography Drama"
+  },
+  {
+    "id": "4",
+    "title": "Little Women",
+    "year": "2019",
+    "summary": "In the years after the Civil War, Jo March (Saoirse Ronan) lives in New York City and makes her living as a writer, while her sister Amy March (Florence Pugh) studies painting in Paris. Amy has a chance encounter with Theodore Laurie Laurence (TimothÃ©e Chalamet), a childhood crush who proposed to Jo, but was ultimately rejected. Their oldest sibling, Meg March (Emma Watson), is married to a schoolteacher, while shy sister Beth (Eliza Scanlen) develops a devastating illness that brings the family back together.",
+    "genre": "Drama Romance"
+  },
+  {
+    "id": "5",
+    "title": "Blinded by the Light",
+    "year": "2019",
+    "summary": "In 1987 Britain, Javed Khan is a British-Pakistani college arts student in Luton in a family with a domineering father. Depressed by his oppressive family life and feeling he has no future in a hostile community, a newfound friend introduces Javed to the music of Bruce Springsteen. Touched by the rock star's powerfully eloquent affinity of his own feelings, Javed is inspired to reach out for his own dreams with his own talents. However, although Javed finds friends he never expected in this personal quest, he also finds himself butting heads with his newly unemployed father who stubbornly refuses to understand his son's new aspirations. In this conflict of values in a troubled time, Javed must decide what is truly important to him while his family struggles to understand what has changed and what remains with a new generation feeling born to run.",
+    "genre": "Music Drama Comedy"
+  },
+  {
+    "id": "6",
+    "title": "Give Me Liberty",
+    "year": "2019",
+    "summary": "In this freewheeling comedy, medical transport driver Vic risks his job to shuttle a group of rowdy seniors and a Russian boxer to a funeral, dragging clients like Tracy, a young woman with ALS, along for the ride.",
+    "genre": "Comedy"
+  },
+  {
+    "id": "7",
+    "title": "Forrest Gump",
+    "year": "1994",
+    "summary": "Forrest Gump is a simple man with a low I.Q. but good intentions. He is running through childhood with his best and only friend Jenny. His 'mama' teaches him the ways of life and leaves him to choose his destiny. Forrest joins the army for service in Vietnam, finding new friends called Dan and Bubba, he wins medals, creates a famous shrimp fishing fleet, inspires people to jog, starts a ping-pong craze, creates the smiley, writes bumper stickers and songs, donates to people and meets the president several times. However, this is all irrelevant to Forrest who can only think of his childhood sweetheart Jenny Curran, who has messed up her life. Although in the end all he wants to prove is that anyone can love anyone.",
+    "genre": "Drama Romance"
+  },
+  {
+    "id": "8",
+    "title": "Batman",
+    "year": "1989",
+    "summary": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman who calls himself The Joker seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+    "genre": "Action Adventure"
+  },
+  {
+    "id": "9",
+    "title": "The Hobbit: An Unexpected Journey",
+    "year": "2012",
+    "summary": "Once upon a time, the Kingdom of Erebor in the Lonely Mountain was taken from the dwarfs by the evil dragon Smaug. One day, the young Hobbit Bilbo Baggins is unexpectedly visited by the wizard Gandalf the Grey and twelve homeless dwarfs led by their former king Thorin and decided to vanquish Smaug and recover Erebor and their treasure. Bilbo joins the company in an unexpected journey through dangerous lands of the Middle-Earth where they have to fight against Trolls, Orcs and other magic creatures. Bilbo also meets the Gollum and finds his lost magic ring.",
+    "genre": "Fantasy Adventure Family"
+  },
+  {
+    "id": "10",
+    "title": "The Godfather",
+    "year": "1972",
+    "summary": "The Godfather Don Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WW II Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart.",
+    "genre": "Crime Drama"
+  },
+  {
+    "id": "11",
+    "title": "Raiders of the Lost Ark",
+    "year": "1981",
+    "summary": "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to humanly existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it.",
+    "genre": "Action Adventure"
+  },
+  {
+    "id": "12",
+    "title": "Field of Dreams",
+    "year": "1989",
+    "summary": "Iowa farmer Ray Kinsella hears a voice in his corn field tell him, If you build it, he will come. He interprets this message as an instruction to build a baseball field on his farm, upon which appear the ghosts of Shoeless Joe Jackson and the other seven Chicago White Sox players banned from the game for throwing the 1919 World Series. When the voices continue, Ray seeks out a reclusive author to help him understand the meaning of the messages and the purpose for his field",
+    "genre": "Sport Drama Fantasy Family"
+  },
+  {
+    "id": "13",
+    "title": "The Wizard of Oz",
+    "year": "1939",
+    "summary": "After a tornado hurls through Kansas, a teenager named Dorothy and her dog Toto are swept away from their farm and wakes up in the colorful and vibrant land of Oz. In order to find their way back home, they must embark on a journey to the Emerald City, where the Wizard of Oz resides. On their way there, they become accompanied by a Scarecrow who longs for a brain, a Tin Man who desires a heart, and a Cowardly Lion who seeks courage. All four are hopeful that the 'Great Oz' will be able to fulfill their wishes, but not far behind them is the Wicked Witch of the West, who is out for revenge on Dorothy after she accidentally killed her sister, the Wicked Witch of the East.",
+    "genre": "Musical Fantasy Adventure Family"
+  },
+  {
+    "id": "14",
+    "title": "Toy Story",
+    "year": "1995",
+    "summary": "Woody the cowboy and Buzz Lightyear Space Ranger have arrived on the Super Nintendo! TOY STORY is a game that follows the story from the hit computer-generated movie. Players must take control of Woody as he tries to save Buzz from the various problems that arise. Each level is based on an event in the movie, so fans of the film will be able to recognize it immediately. The gameplay requires the player to reach the end of each level while overcoming obstacles and destroying enemies, all the while jumping to avoid quick deaths. There is not much violence in the game, as the most powerful weapon that Woody can use is the lasso attached to his back. Some levels do not even require him to use it, as there are some missions that call for stealth or speed. TOY STORY is a great game for fans of the movie with its impressive graphics, fun gameplay, and variety of levels.",
+    "genre": "Animation Adventure Comedy Family Fantasy"
+  },
+  {
+    "id": "15",
+    "title": "Frozen",
+    "year": "2013",
+    "summary": "More and more, the once-close-knit sisters, Princess Elsa of Arendelle, and her younger sister, Anna, grow distant, after an inadvertent mistake. As a result, Elsa, the powerful conjurer of snow and ice, has secluded herself away from the kingdom, struggling to keep her ever-growing gift, or curse, at bay; however, conflicting emotions and bottled-up feelings threaten to plunge the enchanting realm into an eternal winter. Now, it's up to Anna and a fearless team of unlikely allies--the kind but clumsy SÃ¡mi ice-harvester, Kristoff, his trusty reindeer companion, Sven, and the cheerful animated snowman, Olaf--to save the day. Can they make things right again?",
+    "genre": "Animation Comedy Adventure Fantasy Family"
+  },
+  {
+    "id": "16",
+    "title": "Shrek",
+    "year": "2001",
+    "summary": "In a faraway land called Duloc, a heartless ruler, the diminutive Lord Farquaad, has banished all the fairy tale beings from the land so it can be as boring as he is. But there are three characters who will stand in his way. The first is a green, smelly ogre with a heart of gold named Shrek, his faithful steed, Donkey, who will do anything but shut up, and the beautiful but tough Princess Fiona whom Lord Farquaad wishes to make his wife so he can become king of Duloc. What's to do in a screwy fairy tale like this?",
+    "genre": "Animation Adventure Fantasy Family Comedy"
+  },
+  {
+    "id": "17",
+    "title": "Cabaret",
+    "year": "1972",
+    "summary": "In 1930's Berlin, American Sally Bowles works as a singer in the Kit Kat club. At her rooming house she meets Englishman Brian Roberts who has come to Berlin to improve his German. He hopes to pay his expenses by giving English language lessons. Sally is unconventional and she and Robert have a number of adventures together. The romp continues with several of their friends, including the very rich Maximilian von Heune. Life takes a sudden turn for Sally however and throughout it all, the rise of Nazism casts a shadow over everyone.",
+    "genre": "Musical Drama"
+  },
+  {
+    "id": "18",
+    "title": "ET - The Extra-Terrestrial",
+    "year": "1982",
+    "summary": "Left behind by his group of secret visitors, a harmless extraterrestrial entity gets stranded on Earth, surrounded by an intimidatingly strange and unknown environment. Alone and fearful, the marooned being is fortunate to be discovered by the lonely ten-year-old boy, Elliott, who, after the initial shock, decides to take him in, and gives him a name--E.T. Little by little, a bond will form--and as our hospitable blue planet becomes a prison brimming with dangers and government agents--Elliott and his team of rescuers must work fast to find a way to reunite the extraordinary intergalactic guest with his otherworldly family. Even if this means Elliott will lose an unexpected but dear friend.",
+    "genre": "Sci-Fi Family"
+  },
+  {
+    "id": "19",
+    "title": "Pride and Prejudice",
+    "year": "1995",
+    "summary": "Elizabeth Bennett is a strong-willed yet sensible young woman whose father is a gentleman with a quite modest estate and whose uncle suffers in status from being a businessman in Cheapside. She has four sisters, a long-suffering but loving father, and a mother anxious to marry them to wealthy young gentlemen. At a local ball, she encounters one such wealthy young man, Mr. Fitzwilliam Darcy -- and as Mr. Darcy is arrogant, cold and rude, it is hatred at first sight. As her older sister Jane falls in love with Mr. Darcy's best friend Mr. Bingley, and her youngest sister Lydia flirts with anyone in a military uniform, Lizzie finds herself fighting off the attentions of the unctuous Mr. Collins and quite taken by the charming Mr. Wickham - who also happens to be an enemy of Mr. Darcy. However, as the characters succumb in many ways to pride and prejudice, Lizzie learns that not all is quite as it seems...and that Mr. Darcy might not be so disagreeable after all.",
+    "genre": "Drama Romance"
+  },
+  {
+    "id": "20",
+    "title": "Back to the Future",
+    "year": "1985",
+    "summary": "Marty McFly's life is a dump. His father, George, is constantly bullied by his supervisor Biff Tannen and his mother, Lorraine, is an overweight alcoholic. One day, Marty gets a call from his scientist friend Dr. Doc Emmet Brown telling Marty to meet him at Twin Pines Mall at 1:15 AM where Doc unveils a time machine that runs off of plutonium built into a DeLorean and demonstrates it to Marty. Marty accidentally activates the time machine, sending him back to 1955 where he accidentally gets in the way of his teenage parents meeting. Marty must find a way to convince Doc that he is from the future, reunite his parents, and ultimately get back to the future.",
+    "genre": "Sci-Fi Comedy Adventure"
+  },
+  {
+    "id": "21",
+    "title": "West Side Story",
+    "year": "1961",
+    "summary": "Westside story is a modern musical representation of the classic story Romeo and Juliet. The sharks and the jets are rival gangs fighting for the same territory. Tensions rise as a shark girl named Maria and a Jet named Tony fall for eachother, but there's a problem they can never be allowed to be together. The sharks are Puerto Rican immigrants. A rumble is planned and Maria pleades with Tony to stop it. Will he try? Or will he run away from the impossible task? The rumble goes horribly wrong and tensions are at the breaking point, will the fighting stop or will the jets get rid of the sharks once and for all?",
+    "genre": "Musical Drama Romance Crime"
+  },
+  {
+    "id": "22",
+    "title": "RoboCop",
+    "year": "1987",
+    "summary": "After Omni Consumer Products (OCP) announces that it bought out the Detroit police department, the department decides to go on strike. Alex Murphy gets transferred from Metro South to the West. He and new partner Anne Lewis track down a group of criminals led by Clarence Boddicker. Unfortunately, Murphy is mutilated and killed by Clarence's gang. Bob Morton, one of OCP's employees, transforms Murphy's barely cold corpse into RoboCop (to compete with fellow employee Dick Jones' ED-209 robot). RoboCop's tests are successful. Unfortunately, RoboCop rediscovers his memories (when he was Alex Murphy) and now knows he has to find and arrest Clarence Boddicker. When he realizes that Clarence is working for Bob Morton's company rival Dick Jones, RoboCop must stop both Clarence and Dick Jones",
+    "genre": "Sci-Fi Action Crime Thriller"
+  },
+  {
+    "id": "23",
+    "title": "Superman",
+    "year": "1978",
+    "summary": "Unable to convince the ruling council of Krypton that their world will destroy itself soon, scientist Jor-El takes drastic measures to preserve the Kryptonian race: He sends his infant son Kal-El to Earth. There, gaining great powers under Earth's yellow sun, he will become a champion of truth and justice. Raised by the Kents, an elderly farm couple, Clark Kent learns that his abilities must be used for good. The adult Clark travels to Metropolis, where he becomes a mild-mannered reporter for the Daily Planet...and a caped wonder whose amazing feats stun the city: Superman! Meanwhile, Lex Luthor, the world's greatest criminal mind, is plotting the greatest real estate swindle of all time. Can't even the Man of Steel stop this nefarious scheme?",
+    "genre": "Sci-Fi Drama Action Adventure"
+  }
+]
