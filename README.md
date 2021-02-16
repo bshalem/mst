@@ -8,5 +8,25 @@
     "genre": "Adventure Action Fantasy"
   },
 ```
+{
+    "movie": "TheRiseOfSkywalker",
+    "tweet": 1,
+    "text": "RT @spaceshipsporn: #TheRiseOfSkywalker \nNew artworks from the 1st two Star Wars IX scripts written by @colintrevorrow &amp; @connollyderek : D…",
+    "favorited": false,
+    "favoriteCount": 0,
+    "created": "2020-02-03 17:28:06",
+    "truncated": false,
+    "id": "1224384077203111936",
+    "statusSource": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+    "screenName": "gurkan_ergin",
+    "retweetCount": 19,
+    "isRetweet": true,
+    "retweeted": false
+  },
+```json
+{
+},
+```
+
 # Download MST
 The dataset comprises the movies [sa_movies.json](sa_movies.json) and tweets [sa_tweets.json](sa_tweets.json) files.
