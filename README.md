@@ -11,7 +11,7 @@ The dataset is formatted as a pair of collections of movie and tweet json object
 The dataset comprises the movies [sa_movies.json](sa_movies.json) and tweets [sa_tweets.json](sa_tweets.json) files.
 
 # Paper
-More details on the collecting of the the data is available in our companion paper:
+More details on the collecting of the data is available in our companion paper:
 
 - Avi Bleiweiss. *Finding Spoiler Bias in Tweets by Zero-shot Learning and Knowledge Distilling from Neural Text Simplification*. In LTEDI/EACL 2021.
 
