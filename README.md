@@ -24,7 +24,7 @@ If you use the MST dataset as part of your work, please cite:
       booktitle = "Proceedings of the First Workshop on Language Technology for Equality, Diversity and Inclusion",
       month = apr,
       year = "2021",
-      address = "Kyiv",
+      address = "Kyiv, Ukraine",
       publisher = "Association for Computational Linguistics",
       url = "https://www.aclweb.org/anthology/2021.ltedi-1.7",
       pages = "51--60",
