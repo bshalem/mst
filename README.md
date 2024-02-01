@@ -16,8 +16,6 @@ More details on the collecting of the data is available in our companion paper:
 - Avi Bleiweiss. *Finding Spoiler Bias in Tweets by Zero-shot Learning and Knowledge Distilling from Neural Text Simplification*. In LTEDI/EACL 2021.
 
 ### Citation
-If you use the MST dataset as part of your work, please cite:
-
     @inproceedings{bleiweiss-2021-finding,
       title = "Finding Spoiler Bias in Tweets by Zero-shot Learning and Knowledge Distilling from Neural Text   Simplification",
       author = "Bleiweiss, Avi",
